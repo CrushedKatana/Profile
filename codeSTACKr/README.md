@@ -17,5 +17,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/crushedkatana#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/crushedkatana#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-dark.jpeg)](https://twitter.com/CrushedKatana#gh-light-mode-only)
-[![website](./img/discord-dark.jpeg)](https://twitter.com/CrushedKatana#gh-dark-mode-only)
+[![website](./img/discord-dark.jpeg)](https://twitter.com/CrushedKatana)
+
