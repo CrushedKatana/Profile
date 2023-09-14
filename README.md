@@ -1,4 +1,4 @@
-# # Hi there, I'm Charel - aka [CrushedKatana]
+# # Hi there, I'm Charel - aka [CrushedKatana] [Charellino Kalingga Sadewo]
 
 ## I'm a Informatics Engineering Students!!
 
@@ -6,8 +6,7 @@
 - 👯 I’m Iooking for gf
 - ⚡ I love to play R6, BattleBit, Pubg, And BlueArchive
 
- ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://youtube.com/@crushedkatana#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@crushedkatana#gh-dark-mode-only)
-&nbsp;&nbsp;
+ ### Connect with me:]
+ 
+<p align="left">
+  <a href="charelsadewo123@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="40" alt="GMail"/></a>
