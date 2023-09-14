@@ -8,6 +8,6 @@
 
  ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCXkjrOYYEHn7bwL_T19ZLYQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCXkjrOYYEHn7bwL_T19ZLYQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/@crushedkatana#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@crushedkatana#gh-dark-mode-only)
 &nbsp;&nbsp;
