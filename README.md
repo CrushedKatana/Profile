@@ -3,7 +3,7 @@
 ## I'm a Informatics Engineering Students!!
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m Iooking for gf
+- 👯 I’m Iooking for gfhttps://github.com/CrushedKatana/Profile
 - ⚡ I love to play R6, BattleBit, Pubg, And BlueArchive
 
  ### Connect with me:]
