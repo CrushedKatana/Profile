@@ -1,4 +1,4 @@
-# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana] 👋 
+# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
 
 ## I'm a Informatics Engineering Student!!
 
